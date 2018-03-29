@@ -4,6 +4,7 @@
 file书写想要加载的pdf相对于viewer.html的相对地址 
 这样就可以把pdf加载到viewer页面里了。
 
+<a href="resources/js/pdfJs/generic/web/viewer.html?file=../../../../instruction/instruction.pdf" target="view_window">
+  系统操作指南
+</a>
 
-<a href="resources/js/pdfJs/generic/web/viewer.html?file=../../../../instruction/instruction.pdf" target="view_window">系统操作指南</a>
-1
